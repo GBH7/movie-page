@@ -1,1 +1,3 @@
-#ReactJS로 만든 영화 웹페이지
+# ReactJS - 영화 소개 앱
+
+<https://gbh7.github.io/movie-page>
